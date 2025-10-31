@@ -2,3 +2,23 @@
 2025-10-31 10:29:55,033 - my_app - WARNING - Missing value encountered
 2025-10-31 10:31:04,747 - my_app - INFO - Application started.
 2025-10-31 10:31:04,747 - my_app - INFO - Application finished.
+2025-10-31 10:43:17,411 - my_app - INFO - Application started.
+2025-10-31 10:43:53,322 - my_app - INFO - Application started.
+2025-10-31 10:43:53,338 - my_app - INFO - Application finished.
+2025-10-31 10:56:21,916 - my_app - INFO - Application started.
+2025-10-31 10:56:21,917 - my_app - ERROR - Error: The file '../source/sales.csv' was not found.
+2025-10-31 10:56:21,917 - my_app - INFO - CSV file '../source/sales.csv' correctly read
+2025-10-31 10:56:38,734 - my_app - INFO - Application started.
+2025-10-31 10:56:38,743 - my_app - INFO - Application finished.
+2025-10-31 11:04:25,139 - my_app - INFO - Application started.
+2025-10-31 11:04:25,157 - my_app - INFO - Application finished.
+2025-10-31 11:04:44,144 - my_app - INFO - Application started.
+2025-10-31 11:04:44,154 - my_app - INFO - Application finished.
+2025-10-31 11:05:27,380 - my_app - INFO - Application started.
+2025-10-31 11:05:27,386 - my_app - INFO - Application finished.
+2025-10-31 11:06:25,000 - my_app - INFO - Application started.
+2025-10-31 11:06:25,015 - my_app - INFO - Application finished.
+2025-10-31 11:10:21,732 - my_app - INFO - Application started.
+2025-10-31 11:10:21,749 - my_app - INFO - Application finished.
+2025-10-31 11:11:06,246 - my_app - INFO - Application started.
+2025-10-31 11:11:06,260 - my_app - INFO - Application finished.
