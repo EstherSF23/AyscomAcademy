@@ -1,7 +1,9 @@
-import logging, pandas as pd
+from source.logging import logger
 
-logging.basicConfig(level=logging.INFO)
-logging.info("Script started")
-logging.warning("Missing value encountered")
+def main():
+    print("Hello")
 
-print("Hello")
+if __name__ == "__main__":
+    logger.info("Application started.")
+    main()
+    logger.info("Application finished.")
